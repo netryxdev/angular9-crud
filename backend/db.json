@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": "12000.89"
+    },
+    {
+      "id": 3,
+      "name": "POCO X3 Pro",
+      "price": "2000.00"
+    },
+    {
+      "name": "geladeira",
+      "price": "4500.00",
+      "id": 4
+    },
+    {
+      "name": "mesa",
+      "price": "500",
+      "id": 5
+    }
+  ]
+}
